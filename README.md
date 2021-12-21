@@ -1,6 +1,6 @@
 # Metagenomics
 
-Workflow for shotgun metagenomics analysis of the Ethiopian Soda lakes
+Workflow for shotgun metagenomics analysis
 
 ===
 
